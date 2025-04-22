@@ -2,7 +2,7 @@
 
 **An AI-powered video analysis tool that provides intelligent insights, summaries, and answers to user queries — all from uploaded video files.**
 
-![App Screenshot](https://user-images.githubusercontent.com/demo_image.png)
+![App Screenshot](demo_image.png)
 
 ## 🚀 Features
 
